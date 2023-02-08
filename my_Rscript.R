@@ -3,4 +3,6 @@
 # Print Hello World
 myString <- "Hello, World!"
 
-print (myString)
+print(myString)
+
+print("hi")
